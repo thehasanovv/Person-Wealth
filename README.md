@@ -2,4 +2,4 @@
 - HTML
 - CSS
 - JavaScript (forEach, map, reduce)
-https://thehasanovv.github.io/Person-Wealth/
+- https://thehasanovv.github.io/Person-Wealth/
